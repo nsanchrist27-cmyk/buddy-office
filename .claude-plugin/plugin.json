@@ -1,0 +1,1 @@
+{ "name": "buddy", "version": "0.1.0", "description": "Un petit personnage animé au-dessus du prompt qui mime ce que fait Claude", "types": "./types/index.d.ts" }

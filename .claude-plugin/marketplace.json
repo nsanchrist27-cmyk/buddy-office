@@ -1,0 +1,5 @@
+{
+  "name": "buddy-office",
+  "owner": { "name": "nsanchrist27-cmyk" },
+  "plugins": [{ "name": "buddy", "source": "./" }]
+}
